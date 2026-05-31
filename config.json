@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordender",
+        "uuid": 3097836,
+        "checksum": "9yzgpd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
